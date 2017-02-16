@@ -17,6 +17,7 @@ core = 7.x
 ;-------------------------------------------------;
 
 stylesheets[all][]= css/style.css
+stylesheets[all][]= css/font-awesome/css/font-awesome.css
 screenshot = theme_logo.png
 
 ;-------------------------------------------------;
@@ -24,6 +25,10 @@ screenshot = theme_logo.png
 ;-------------------------------------------------;
 
 regions[header] = Header
+
+regions[navigation] = Navigation
+
+regions[highlighted] = Highlighted
 
 regions[content] = Content
 
