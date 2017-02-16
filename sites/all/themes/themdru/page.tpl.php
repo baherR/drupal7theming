@@ -9,6 +9,19 @@
 	<?php endif;?>
 	</header>
 
+	<div id="navigation">
+		
+		<?php print render($page['navigation']); ?>
+
+
+	</div>
+
+	<div id="highlighted">
+		
+		<?php print render($page['highlighted']); ?>
+
+	</div>
+
 	<div id="main">
 		
 		<?php if ($title): ?>

@@ -1,0 +1,44 @@
+#page{
+	font-family: sans-serif;
+	background: linear-gradient(to bottom,#eeeeee 0%, #eeeeee 100%);
+	background: -moz-linear-gradient(to,#eeeeee 0%, #eeeeee 100%);
+	background: -webkit-linear-gradient(top,#eeeeee 0%, #eeeeee 100%);
+}
+
+header{
+
+	background-color: white;
+	height: 65px;
+}
+
+#navigation{
+
+	height: 50px;
+	background: linear-gradient(to bottom,#2c539e 0%, #2c539e 100%);
+	background: -moz-linear-gradient(to,#2c539e 0%, #2c539e 100%);
+	background: -webkit-linear-gradient(top,#2c539e 0%, #2c539e 100%);
+}
+
+
+#highlighted{
+
+	background: url(image/bann1.jpg);
+	height: 400px;
+	background-position: center;
+}
+
+#main{
+
+	width: 700px;
+	margin: auto;
+	background: white;
+	box-shadow: 1px 1px 20px #000000;
+}
+
+#footer{
+
+	height: 200px;
+	background: linear-gradient(to bottom,#29304D 0%, #29304D 100%);
+	background: -moz-linear-gradient(to,#29304D 0%, #29304D 100%);
+	background: -webkit-linear-gradient(top,#29304D 0%, #29304D 100%);
+}
