@@ -8,5 +8,21 @@
 		</h1>
 	<?php endif;?>
 	</header>
-	
+
+	<div id="main">
+		
+		<?php if ($title): ?>
+			<h1> <?php print $title ?></h1>
+		<?php endif ?>
+		
+		<?php print render($page['content']);?>
+
+
+	</div>
+
+	<div id="footer">
+		
+		<?php print render($page['footer']); ?>
+
+	</div>
 </div>
