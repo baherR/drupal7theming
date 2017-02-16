@@ -1,0 +1,11 @@
+.submenu-solar-system{
+	text-align: left;
+}
+
+.view-article-divers .views-field-field-image, .view-article-divers .views-field-title{
+	float: left;
+}
+
+.views-row.views-row-2,.views-row.views-row-3,.views-row.views-row-4,.views-row.views-row-5{
+	clear : left;
+}

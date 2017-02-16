@@ -1,0 +1,14 @@
+.jquery_ui_dialog-dialog {
+  top: 90px !important;
+}
+.syntaxhighlighter-insert-left {
+  float: left;
+  width: 50%;
+}
+.syntaxhighlighter-insert-right {
+  float: left;
+  width: 40%;
+}
+.form-item-syntaxhighlighter-insert-wysiwyg-texte-code {
+  clear: both;
+}
